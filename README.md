@@ -32,14 +32,13 @@ Este proyecto realiza un análisis de datos utilizando información sobre difere
 
 ## ️ Tecnologías Utilizadas
 
-*   **Lenguaje de programación:** Python
-*   **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-*   **Entorno de desarrollo:** Google Colab (opcional, pero recomendado para la ejecución en la nube)
-*   **Control de versiones:** GitHub
+*   **Lenguaje de programación:** `Python`
+*   **Librerías:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+*   **Entorno de desarrollo:** `Google Colab`
 
 ##  Cómo Usar el Proyecto
 
-**Ejecuta el código:** Sigue las instrucciones dentro del notebook llamado Examen-Integer.ipynb para ejecutar las celdas de código y generar los resultados.
+**Ejecuta el código:** Sigue las instrucciones dentro del notebook llamado `Examen-Integer.ipynb` para ejecutar las celdas de código y generar los resultados.
 
 ##  Resultados Principales
 
