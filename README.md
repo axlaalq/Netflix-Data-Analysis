@@ -54,4 +54,4 @@ Este proyecto realiza un análisis de datos utilizando información sobre difere
 *   Puedes agregar información adicional sobre el proyecto, como la fuente de los datos (si es pública), enlaces a recursos relevantes o cualquier otro detalle que consideres importante.
 *   Si deseas contribuir al proyecto, puedes agregar una sección de "Contribuciones" con instrucciones para otros desarrolladores.
 
-¡Espero que esta versión mejorada te sea aún más útil para tu README de GitHub!
+Muchas gracias por su tiempo!
