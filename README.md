@@ -45,7 +45,6 @@ Este proyecto realiza un análisis de datos utilizando información sobre difere
 *   Se observa una tendencia creciente en la producción de contenido en Netflix.
 *   El género más común es el drama de películas internacionales.
 *   Estados Unidos (EUA) es el país con más películas y series en Netflix, por un amplio margen.
-*   El número de estrenos en Netflix se empezó a disparar en la decada de 2010.
 *   **Predicción:** Se espera un aumento significativo en los lanzamientos de Netflix en el próximo año (se provee un valor estimado).
 
 ##  Notas Adicionales
