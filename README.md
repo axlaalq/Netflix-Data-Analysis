@@ -39,7 +39,7 @@ Este proyecto realiza un análisis de datos utilizando información sobre difere
 
 ##  Cómo Usar el Proyecto
 
-**Ejecuta el código:** Sigue las instrucciones dentro del notebook para ejecutar las celdas de código y generar los resultados.
+**Ejecuta el código:** Sigue las instrucciones dentro del notebook llamado Examen-Integer.ipynb para ejecutar las celdas de código y generar los resultados.
 
 ##  Resultados Principales
 
