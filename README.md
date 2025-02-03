@@ -1,4 +1,4 @@
-# Examen técnico para la vacante de Analista de Datos Jr en Integer.
+# Examen técnico para la vacante de Analista de Datos Jr en Integrity.
 # Análisis de Datos de Netflix
 
 Este proyecto realiza un análisis de datos utilizando información sobre diferentes películas y series lanzadas en Netflix. Se incluyen procesos de limpieza, análisis y visualización de datos. Además, como un extra, se incluye un modelo predictivo para tendencias futuras.
