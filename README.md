@@ -47,9 +47,5 @@ Este proyecto realiza un análisis de datos utilizando información sobre difere
 *   Estados Unidos (EUA) es el país con más películas y series en Netflix, por un amplio margen.
 *   **Predicción:** Se espera un aumento significativo en los lanzamientos de Netflix en el próximo año (se provee un valor estimado).
 
-##  Notas Adicionales
-
-*   Puedes agregar información adicional sobre el proyecto, como la fuente de los datos (si es pública), enlaces a recursos relevantes o cualquier otro detalle que consideres importante.
-*   Si deseas contribuir al proyecto, puedes agregar una sección de "Contribuciones" con instrucciones para otros desarrolladores.
 
 Muchas gracias por su tiempo!
