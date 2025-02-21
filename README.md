@@ -1,51 +1,48 @@
-# Examen técnico para la vacante de Analista de Datos Jr en Integrity.
-# Análisis de Datos de Netflix
 
-Este proyecto realiza un análisis de datos utilizando información sobre diferentes películas y series lanzadas en Netflix. Se incluyen procesos de limpieza, análisis y visualización de datos. Además, como un extra, se incluye un modelo predictivo para tendencias futuras.
+# Netflix Data Analysis
 
-##  Contenido del Proyecto
+This project performs a data analysis using information about different movies and series released on Netflix. It includes data cleaning, analysis, and visualization processes. Additionally, as an extra, a predictive model for future trends is included.
 
-### Carga y limpieza de datos
+## Project Contents
 
-*   Carga del archivo CSV en Python utilizando la librería `pandas`.
-*   Identificación y manejo de valores faltantes (NaN) utilizando técnicas como imputación o eliminación.
-*   Eliminación de filas duplicadas para asegurar la integridad de los datos.
-*   Transformación y optimización de tipos de datos para un mejor rendimiento y análisis (ej: convertir fechas a formato datetime).
+### Data Loading and Cleaning
 
-### Análisis Exploratorio
+* Loading the CSV file in Python using the `pandas` library.
+* Identifying and handling missing values (NaN) using techniques such as imputation or deletion.
+* Removing duplicate rows to ensure data integrity.
+* Transforming and optimizing data types for better performance and analysis (e.g., converting dates to datetime format).
 
-*   Cálculo de estadísticas descriptivas de películas y series (media, mediana, desviación estándar, etc.) utilizando `pandas`.
-*   Identificación de tendencias clave en los datos, como la evolución de la producción de contenido a lo largo del tiempo.
+### Exploratory Analysis
 
-### Visualización de Datos
+* Calculating descriptive statistics of movies and series (mean, median, standard deviation, etc.) using `pandas`.
+* Identifying key trends in the data, such as the evolution of content production over time.
 
-*   Creación de gráficos para visualizar los estrenos por década y tipo (película/serie) utilizando `matplotlib` y `seaborn`.
-*   Identificación y visualización de los géneros más comunes en Netflix.
-*   Análisis y visualización de los países con más películas y series en la plataforma.
-*   Identificación y visualización de los actores más populares en las producciones de Netflix.
-*   Visualización de la evolución de los estrenos en el tiempo utilizando gráficos de líneas o áreas.
+### Data Visualization
 
-### Predicciones con Regresión Polinomial
+* Creating graphs to visualize releases by decade and type (movie/series) using `matplotlib` and `seaborn`.
+* Identifying and visualizing the most common genres on Netflix.
+* Analyzing and visualizing the countries with the most movies and series on the platform.
+* Identifying and visualizing the most popular actors in Netflix productions.
+* Visualizing the evolution of releases over time using line or area charts.
 
-*   Implementación de un modelo predictivo utilizando regresión polinomial para estimar lanzamientos futuros.
-*   Visualización de la tendencia de estrenos en Netflix y la predicción del modelo.
+### Predictions with Polynomial Regression
 
-## ️ Tecnologías Utilizadas
+* Implementing a predictive model using polynomial regression to estimate future releases.
+* Visualizing the trend of releases on Netflix and the model's prediction.
 
-*   **Lenguaje de programación:** `Python`
-*   **Librerías:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
-*   **Entorno de desarrollo:** `Google Colab`
+## ️ Technologies Used
 
-##  Cómo Usar el Proyecto
+* **Programming language:** `Python`
+* **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+* **Development environment:** `Google Colab`
 
-**Ejecuta el código:** Sigue las instrucciones dentro del notebook llamado `Examen-Integrity.ipynb` para ejecutar las celdas de código y generar los resultados.
+## How to Use the Project
 
-##  Resultados Principales
+**Run the code:** Follow the instructions within the notebook named `Examen-Integrity.ipynb` to execute the code cells and generate the results.
 
-*   Se observa una tendencia creciente en la producción de contenido en Netflix.
-*   El género más común es el drama de películas internacionales.
-*   Estados Unidos (EUA) es el país con más películas y series en Netflix, por un amplio margen.
-*   **Predicción:** Se espera un aumento significativo en los lanzamientos de Netflix en el próximo año (se provee un valor estimado).
+## Main Results
 
-
-Muchas gracias por su tiempo!
+* A growing trend in content production on Netflix is observed.
+* The most common genre is international movie drama.
+* The United States (USA) is the country with the most movies and series on Netflix, by a wide margin.
+* **Prediction:** A significant increase in Netflix releases is expected in the coming year (an estimated value is provided).
